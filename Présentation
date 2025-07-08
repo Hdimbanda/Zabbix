@@ -1,0 +1,13 @@
+Bonjour à tous,
+
+Dans cette nouvelle présentation, je vais vous décrire en quelques mots l'outil d'administration déjà mentionné dans mon CV qu'est Zabbix.
+L'objectif,ici, est de vous montrer l'outil avec des captures afin de comprendre de façon concrète quelques options proposées.
+Zabbix est un outil de supervision informatique et de surveillance en temps réel permettant d'envoyer principalement des alertes suites à des évènements de façon générale dans un espace informatique.
+Il surveille globalement une infrastructure informatique et ce qui la structure, tel que les réseaux, les bases de données, les applications ou encore le stockage. 
+
+Par le biais de mes captures, je vais vous détailler quelques menus dans cette interface : 
+
+Dans le tableau de bord, nous avons une vision globale de l'interface nous donnant des informations concernant les ressources , le journal et les configurations (étant dans la partie centrale) puis nous avons d'autres options en barre latérale gauche qui complètent l'administration de ce serveur. Nous pouvons aussi le personnaliser en cliquant sur "éditer le tableau de bord" si l'on veut ajouter des fonctionnalités/options pertinentes, évitant de les chercher dans les menus et offrant un gain de temps .Dans la case "problèmes" du menu surveillance, s'affichent les erreurs/problèmes rencontrés tout en informant de leur statut de résolution. Dans l'option "hôte" inclue dans le menu inventaire, s'y trouve la liste d'hôtes actifs. 
+Dans les "rapports" c'est là où tout peut être traité en terme d'audit, rédaction de rapports. L'outil permet également de jeter un oeil à la liste des utilisateurs ou d'en ajouter (si nécessaire).
+
+J'espère que cette courte présentation vous aura plu et je vous donne rendez-vous pour de prochaines publications sur ma page.
